@@ -13,7 +13,7 @@
  You need mongodb installed and running on your computer or use cloud version
 ```bash
 git clone https://github.com/xhssen/api-crud-express.git # u can add at the end [custom_name_directory]
-cd api-crud-express # cd [custom_name_directory]
+cd api-crud-express # or cd [custom_name_directory]
 npm install
 npm run build
 npm start  
